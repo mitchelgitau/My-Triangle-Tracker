@@ -1,9 +1,9 @@
-body{
-    background-color: purple
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: auto;
-    background-attachment: fixed;
+html{
+  background-color:brown;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+  background-attachment;fixed
   }
 
 .input{
@@ -12,20 +12,13 @@ body{
   padding-bottom: 8px;
   font-weight: 300;
 }
-
 .header {
   text-align: center;
   font-family: fantasy;
   font-weight: 400;
-  color:black;
-  font-stretch: extra-expanded;
+  color:purple
+  font-stretch:semi-condensed;
 }
-h2{
-  font-family: sans-serif;
-  text-align:center;
-  font-style:italic;
-}
-
 .buttons{
  width: 20px;
  height: 10px;
@@ -35,12 +28,8 @@ h2{
  left: 50%;
  border-radius: 10px;
 }
-reset{
-    width: 20px;
- height: 10px;
- align:middle;
- position: absolute;
- top: 70%;
- left: 50%;
- border-radius: 10px;
+h2{
+  font-family: sans-serif;
+  text-align:center;
+  font-style:italic;
 }
