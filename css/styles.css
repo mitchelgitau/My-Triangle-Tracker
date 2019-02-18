@@ -1,6 +1,6 @@
 html{
-  background-colour:black;
-  background-repeat:no-repeat;
+  background-color:gray;
+  background-repeat:repeat;
   background-position: center;
   background-size:cover;
   background-attachment;fixed;
@@ -17,11 +17,11 @@ html{
   font-family: fantasy;
   font-weight: 400;
   color:purple;
-  font-stretch:extra-expanded;
+  font-stretch: extra-expanded;
 }
 .buttons{
- width: 20px;
- height: 10px;
+ width: 80px;
+ height: 30px;
  align:middle;
  position: absolute;
  top: 50%;
@@ -31,5 +31,5 @@ html{
 h2{
   font-family:fantasy;
   text-align:center;
-  font-style:italic;
+  font-style:oblique;
 }
