@@ -1,11 +1,3 @@
-html{
-  background-color:gray;
-  background-repeat:repeat;
-  background-position: center;
-  background-size:cover;
-  background-attachment;fixed;
-  }
-
 .input{
   text-align: center;
   line-height: normal;
@@ -19,15 +11,21 @@ html{
   color:purple;
   font-stretch: extra-expanded;
 }
-.buttons{
- width: 80px;
- height: 30px;
- align:middle;
- position: absolute;
- top: 50%;
- left: 50%;
- border-radius: 8px;
+button {
+background-color: #f4511e;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
 }
+
 h2{
   font-family:fantasy;
   text-align:center;
