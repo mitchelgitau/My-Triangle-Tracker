@@ -36,7 +36,6 @@ You are required to:
  <li>ATOM EDITOR - text editor.</li>
  <li>CSS - great UI for modern web apps.</li>
  <li>JAVASCRIPT - evented for the backend.</li>
- <li>JQUERY - for great effects.</li>
 </ol>
 
 
