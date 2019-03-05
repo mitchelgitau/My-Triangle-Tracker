@@ -21,12 +21,12 @@ You are required to:
 ## BDD
 
 <ol>
-Input numbers for side1, side 2 and side 3
-Click enter
-If the values inputted are the same the application alerts that its an equilateral triangle
-If two of the values are the same the application alerts that its an isosceles triangle
-If the sum of two sides is greater than the third side the application alerts that its a scalene triangle
-If the sum of two sides is less than the third side the application alerts that its not a triangle
+ <li>Input numbers for side1, side 2 and side 3</li>
+ <li>Click enter</li>
+ <li>If the values inputted are the same the application alerts that its an equilateral triangle</li>
+ <li>If the sum of two sides is greater than the third side the application alerts that its a scalene triangle</li>
+ <li>If the sum of two sides is less than the third side the application alerts that its not a triangle</li>
+</ol>
 
 
 ## Technologies Used
