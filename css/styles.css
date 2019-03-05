@@ -1,0 +1,37 @@
+.input{
+  text-align: center;
+  line-height: normal;
+  padding-bottom:7px
+  font-weight: 300;
+}
+.header {
+  text-align: center;
+  font-family: fantasy;
+  font-weight: 400;
+  color:gray;
+  font-stretch: extra-expanded;
+}
+button {
+background-color: #f4511e;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+h2{
+  font-family:fantasy;
+  text-align:center;
+  font-style:oblique;
+  font-colour: #gray;
+}
+label{
+  color: #gray;
+}
