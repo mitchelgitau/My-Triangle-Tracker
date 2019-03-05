@@ -30,4 +30,8 @@ h2{
   font-family:fantasy;
   text-align:center;
   font-style:oblique;
+  font-colour: purple;
+}
+label{
+  color: purple;
 }
