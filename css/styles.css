@@ -8,7 +8,7 @@
   text-align: center;
   font-family: fantasy;
   font-weight: 400;
-  color:purple;
+  color:gray;
   font-stretch: extra-expanded;
 }
 button {
@@ -30,8 +30,8 @@ h2{
   font-family:fantasy;
   text-align:center;
   font-style:oblique;
-  font-colour: purple;
+  font-colour: #gray;
 }
 label{
-  color: purple;
+  color: #gray;
 }
